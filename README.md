@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=jilliannoreen&style=for-the-badge&color=FCBA40)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jilliannoreenfernandez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandezjnl/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/jilliannoreen)
 [![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-3E54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/jilliannoreen)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/jillian_noreen)
