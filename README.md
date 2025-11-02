@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Jillian Noreen!  
 ![](https://komarev.com/ghpvc/?username=jilliannoreen&style=for-the-badge&color=FCBA40)
 
-✨ I’m a software developer passionate about building things that look good and work well.
+✨ I’m a software developer passionate about building things that look good and work well.  
 🚀 Always exploring new technologies and finding better ways to bring ideas to life.
 
 ---
