@@ -1,6 +1,6 @@
-# Hello, I'm Jillian Noreen 👋
+# Hello, I'm Jillian Noreen!
 ###### Software Developer
-![](https://komarev.com/ghpvc/?username=jilliannoreen&color=yellow)
+![](https://komarev.com/ghpvc/?username=jilliannoreen&color=green)
 [![Github](https://img.shields.io/github/followers/jilliannoreen?label=Follow&style=social)](https://github.com/jilliannoreen)
 
 
