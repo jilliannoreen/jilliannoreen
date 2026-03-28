@@ -17,4 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,tailwindcss,bootstrap,mongodb,mysql,redis,figma,azure,aws,postman&theme=dark&perline=15)](https://skillicons.dev)
 
 <br/><br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=36&pause=2000&color=C8B713&vCenter=true&width=540&height=42&lines=Code.+Learn.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=22&pause=1000&color=66CC00&vCenter=true&width=750&lines=jilliannoreen%40dev%3A~%24+git+commit+-m+%22continuous+growth+and+learning%22)](https://git.io/typing-svg)
