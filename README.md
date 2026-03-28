@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=45&pause=2000&color=C8B713&vCenter=true&width=435&height=42&lines=Hello+World+)](https://git.io/typing-svg)
-
-## I'm Jillian Noreen 👋
+# Hello, I'm Jillian Noreen 👋
 ###### Software Developer
 ![](https://komarev.com/ghpvc/?username=jilliannoreen&color=yellow)
 [![Github](https://img.shields.io/github/followers/jilliannoreen?label=Follow&style=social)](https://github.com/jilliannoreen)
@@ -16,5 +14,7 @@
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/jillian_noreen)
 
 ##### ⚙️ Tech Stack
-[<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,tailwindcss,bootstrap,mongodb,mysql,redis&theme=dark&perline=15" width="450" />](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,tailwindcss,bootstrap,mongodb,mysql,redis&theme=dark&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,tailwindcss,bootstrap,mongodb,mysql,redis,figma,azure,aws,postman&theme=dark&perline=15)](https://skillicons.dev)
 
+<br/><br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=36&pause=2000&color=C8B713&vCenter=true&width=540&height=42&lines=Code.+Learn.+Repeat.)](https://git.io/typing-svg)
