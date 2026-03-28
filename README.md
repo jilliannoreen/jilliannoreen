@@ -6,9 +6,8 @@
 [![Github](https://img.shields.io/github/followers/jilliannoreen?label=Follow&style=social)](https://github.com/jilliannoreen)
 
 
-💻 Currently focused on web development <br>
-📚 Continuously learning about clean code, system design, and best practices <br>
-🎯 Goal: Grow into a well-rounded full-stack engineer <br>
+—  3+ years of professional experience building web applications and APIs <br/>
+—  Exploring AI-assisted development for code generation, debugging, and workflow optimization
   
 ##### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandezjnl/)
